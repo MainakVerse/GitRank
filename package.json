@@ -65,6 +65,9 @@
     "dotenv": "^17.2.3",
     "emoji-name-map": "^2.0.3",
     "github-username-regex": "^1.0.0",
+    "next": "^16.0.7",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
     "word-wrap": "^1.2.5"
   },
   "lint-staged": {
